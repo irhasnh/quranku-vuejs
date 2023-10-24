@@ -13,12 +13,12 @@ const SIDBAR_MENU: Array<{ icon: string, label: string, route: string }> = [
         icon: "/assets/svg/home.svg",
         label: "general.home-page",
         route: "home"
-    },
+    }/*,
     {
         icon: "/assets/svg/clock.svg",
         label: "general.prayer-schedule",
         route: "prayer-schedule"
-    }
+    }*/
 ]
 
 export default defineComponent({
