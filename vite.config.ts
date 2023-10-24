@@ -40,8 +40,8 @@ export default defineConfig({
                     baseurl: process.env.VITE_APP_BASE_URL,
                     title: process.env.VITE_APP_NAME,
                     description: "Baca dan dengarkan ayat-ayat Al-Qur`an secara online",
-                    author: "lumine.id",
-                    keywords: "Al-Qur`an online, Al-Qur`an Indonesia, Quran ku, Quran App, Islam, Quran",
+                    author: "irhas.web.id",
+                    keywords: "Al-Qur`an online, Al-Qur`an Indonesia, Quran App, Islam, Quran",
                 }
             }
         })
